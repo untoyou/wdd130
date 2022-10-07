@@ -1,0 +1,109 @@
+body {
+    max-width: 1600px;
+margin: 0 auto;
+}
+#content
+nav {
+    text-align: center;
+}
+#hero-msg h1 {text-align: center; 
+}
+#hero-msg h4 {text-align: center;
+}
+.botton-box {text-align: center;
+}
+main section{text-align: center;
+}
+.rapids-card{
+    background: blanchedalmond;
+}
+.boat{
+    background: whitesmoke;
+}
+h2 {
+    background: white;
+}
+section {
+    
+}
+#background{
+    height: 725px;
+}
+    body{
+        background-color: #fcfbfb;
+    }
+    header{
+        background-color: rgba(20, 30, 13, .7);
+    }
+nav a: hover{
+    background-color: black;
+}
+nav a: hover {
+    background-color: black; color: #d9c2a3;
+}
+.home-title{
+background-color: antiquewhite; color:#fcfbfb;
+}
+h4{
+    background-color:beige; color: #dfdfdf;
+}
+.book{
+    background-color: #fcfbfb; color:bisque;
+}
+.join{
+    background-color: azure;color: #d5fdd5;
+}
+.book: hover{
+    background-color: white; color:#afdcca;
+}
+.join: hover{
+    background-color: navy; color:#bcddbc;
+}
+.msg h2{
+    backgroung-color: white; color: #afdcca;
+}
+.msg p{
+    background-color:azure; color: #fcfbfb;
+}
+footer{
+    backgroung-color:white; color:aliceblue;
+}
+footer a{
+background-color: navajowhite; color:#d5fdd5;
+}
+footer a{
+    background-color:aquamarine; color:#d5fdd5;
+}
+footer a: hover{
+    backgroung-color: navy; color; white;
+}
+.icon{
+    width:80px
+}
+nav a{
+    text-align: center;
+    color:#fcfbfb
+    text-decoration: none
+}
+.book{
+text-align:center;
+color:#dfdfdf
+text-decoration:none
+}
+.join{
+    text-align:center;
+    color:#dfdfdf;
+    text-decoration: none
+}
+footer a{
+    text-align: center;
+    color:#afdcca;
+    text-decoration: none;
+}
+footer p{
+    font-size:1.2rem
+}
+footer p a:hover{
+    text-decoration:underline;
+}
+
