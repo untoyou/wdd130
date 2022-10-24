@@ -51,7 +51,7 @@ background-color: red;
 margin-top: 50px; 
 margin-bottom: 30px;
 margin-left: 10px;
-margin-right: 10px;
+margin-right: 70px;
 position: relative;
 bottom:100 px;
 } 
@@ -60,15 +60,15 @@ width: 100px;
 height: 100px; 
 background-color: green; 
 position:relative;
-right: 240px;
-top: 100px
+right: 250px;
+top: 120px
  } 
 .yellow2 {
 width: 100px; 
 height: 100px; 
 background-color: gold; 
 position: relative;
-left:80px;
+left:100px;
 bottom:50px
 } 
 .blue2 {
